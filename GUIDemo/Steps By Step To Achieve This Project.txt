@@ -1,0 +1,15 @@
+1. After creating the java project and file (Maybe with Eclips)
+2. Create a Database in your MySQL Server 
+3. Right click on the project title on Eclips and create a folder and name it lib
+4. Drag your Java Driver into the folder after downloading it: https://search.maven.org/search?q=g:mysql%20AND%20a:mysql-connector-java
+5. Right click on the project again and click on properties
+6. Click on Java Build Path
+7. Click on Libraries and click on Modulepath
+8. Click on Add External Jars
+9. Please place your Driver in your working directory like, I mean create a folder there 
+and paste it there. You can name the folder mysql-connector
+10. Browse the driver from the mysql-connector folder
+11. Click on Apply and close. 
+
+THEN WRITE YOUR CODE... and try submitting it to the instaled MySQL Developer 
+Express edition Server
